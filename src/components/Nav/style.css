@@ -1,0 +1,22 @@
+* {
+padding:0;
+margin: 0;
+}
+
+.navbar{
+    background: grey;
+    color:white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid red;
+    padding: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.navlinks a {
+    margin-left: 20px;
+    color: aquamarine;
+    text-decoration: none;
+}
