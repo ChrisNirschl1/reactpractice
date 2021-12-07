@@ -16,7 +16,7 @@ import {
 function App() {
   return (
     <Router>
-    <div className="app">Hello World</div>
+    
     <Header />
     
     <Switch>
