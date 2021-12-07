@@ -15,21 +15,21 @@ const projects = [
         url: "https://soundbyte100.herokuapp.com/",
         repo:"https://github.com/ChrisNirschl1/proj3-frontend",
         
-        about: "This app allows users to search for recipes based on ingredients that have or would like included.  Built of multiple external APIs."
+        about: "A social media app built around connecting people through music, and local meetp spots that they can meet with friends to discuss that music"
     },
     {
         title:"Day planner" ,
         url: "https://chrisnirschl1.github.io/day-planner/",
         repo:"https://github.com/ChrisNirschl1/day-planner",
         
-        about: "A weather dashboard that uses local storage to save search history. Will give daily and weekly weather data for any location searched."
+        about: "Keep track of your day with this online planner with color coding according to how near your task needs to be finished."
     },
     {
         title:"Brthday" ,
         url: "https://cpysden-coder.github.io/wk4-project-html/",
         repo:"https://github.com/cpysden-code.github/wk4",
        
-        about: "This is a simple random password generator built using prompts for specifications. This is the first app that I built!"
+        about: "This is a simple social media site my group built that acts as an initial landing page on your browser to learn new things and have some fun when first logging in."
     }
 ]
 function Projects() {

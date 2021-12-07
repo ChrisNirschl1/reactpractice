@@ -38,7 +38,7 @@ export default function ProjectCard(props) {
         <Card border="info" className="my-5" bg="danger" style={styles.outline}>
             {/* <Card.Img variant="top" src={`${props.link}`} /> */}
             <Card.Body style={styles.card}>
-                <Card.Title>{props.title}</Card.Title>
+                <Card.Title><h1>{props.title}</h1></Card.Title>
                 <Card.Text>
                     {props.about}
                 </Card.Text>
