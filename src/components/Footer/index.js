@@ -1,35 +1,32 @@
-import React from 'react';
+import React from 'react'
 
-import { FaLinkedin } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
+   export default function Footer(){
+  const styles = {
+      footer: {
+          display: "flex",
+          justifyContent:"center",
+          alignItems: "center",
+          position: "fixed",
+          bottom: 0,
+          width:"100vw",
+          background:"grey",
+          height:"10vh"
+      },
+      
+      a: {
+          color: "#101820FF",
+          textDecoration:"none",
+          marginLeft:"5%",
+          marginRight:"5%"
+      }
+  }
 
-
-
-function Footer() {
-  return (
-    <>
-      <div className="icons">
-        <a
-          target="_blank"
-          href="https://www.linkedin.com/in/christian-nirschl/"
-          rel="noreferrer"
-        >
-          <div>
-            <FaLinkedin />
-          </div>
-        </a>
-        <a
-          target="_blank"
-          href="https://github.com/ChrisNirschl1"
-          rel="noreferrer"
-        >
-          <div>
-            <FaGithub />
-          </div>
-        </a>
-      </div>
-    </>
-  );
+  return(
+      <footer style={styles.footer}>
+          <a style={styles.a} href="https://github.com/ChrisNirschl1" target="_blank">Github</a>
+          <a style={styles.a} href="https://www.linkedin.com/in/christian-nirschl/" target="_blank">LinkedIn</a>
+         
+          
+      </footer>
+  )
 }
-
-export default Footer;

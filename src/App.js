@@ -5,6 +5,7 @@ import Aboutme from "./pages/Aboutme"
 import Contact from "./pages/Contact"
 import Portfolio from "./pages/Portfolio"
 import Resume from "./pages/Resume"
+import Footer from "./components/Footer"
 import {
   BrowserRouter as Router,
   Switch,
@@ -33,6 +34,7 @@ function App() {
         <Resume />
       </Route>
     </Switch>
+    <Footer></Footer>
     </Router>
   );
 }
