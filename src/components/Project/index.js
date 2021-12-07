@@ -13,7 +13,7 @@ export default function ProjectCard(props) {
             justifyContent: "center",
             margin: "20px",
             padding: "5px",
-            border: "5px solid purple",
+            border: "5px solid aquamarine",
         },
         card: {
             display: "flex",
@@ -36,7 +36,7 @@ export default function ProjectCard(props) {
         <div style={styles.container}>
 
         <Card border="info" className="my-5" bg="danger" style={styles.outline}>
-            {/* <Card.Img variant="top" src={`${props.link}`} /> */}
+            
             <Card.Body style={styles.card}>
                 <Card.Title><h1>{props.title}</h1></Card.Title>
                 <Card.Text>
