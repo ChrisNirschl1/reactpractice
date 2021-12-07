@@ -18,7 +18,9 @@ function App() {
   return (
     <Router>
     
+    
     <Header />
+    
     
     <Switch>
       <Route  exact path="/portfolio">

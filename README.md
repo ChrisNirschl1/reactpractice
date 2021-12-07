@@ -5,6 +5,7 @@
  ## Description
  
  Building a React Portfolio
+ Check it out: https://chrisnirschl1.github.io/reactpractice/
    
  ## Table of Contents
  * [Installation](#installation)
