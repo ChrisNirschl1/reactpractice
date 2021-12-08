@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactpractice/static/css/main.d121dc67.chunk.css",
-    "main.js": "/reactpractice/static/js/main.9d8d4313.chunk.js",
-    "main.js.map": "/reactpractice/static/js/main.9d8d4313.chunk.js.map",
+    "main.css": "/reactpractice/static/css/main.79e3d714.chunk.css",
+    "main.js": "/reactpractice/static/js/main.02993fcb.chunk.js",
+    "main.js.map": "/reactpractice/static/js/main.02993fcb.chunk.js.map",
     "runtime-main.js": "/reactpractice/static/js/runtime-main.b04a5c4a.js",
     "runtime-main.js.map": "/reactpractice/static/js/runtime-main.b04a5c4a.js.map",
-    "static/js/2.57f549d9.chunk.js": "/reactpractice/static/js/2.57f549d9.chunk.js",
-    "static/js/2.57f549d9.chunk.js.map": "/reactpractice/static/js/2.57f549d9.chunk.js.map",
+    "static/js/2.70c6c94d.chunk.js": "/reactpractice/static/js/2.70c6c94d.chunk.js",
+    "static/js/2.70c6c94d.chunk.js.map": "/reactpractice/static/js/2.70c6c94d.chunk.js.map",
     "index.html": "/reactpractice/index.html",
-    "static/css/main.d121dc67.chunk.css.map": "/reactpractice/static/css/main.d121dc67.chunk.css.map",
-    "static/js/2.57f549d9.chunk.js.LICENSE.txt": "/reactpractice/static/js/2.57f549d9.chunk.js.LICENSE.txt"
+    "static/css/main.79e3d714.chunk.css.map": "/reactpractice/static/css/main.79e3d714.chunk.css.map",
+    "static/js/2.70c6c94d.chunk.js.LICENSE.txt": "/reactpractice/static/js/2.70c6c94d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b04a5c4a.js",
-    "static/js/2.57f549d9.chunk.js",
-    "static/css/main.d121dc67.chunk.css",
-    "static/js/main.9d8d4313.chunk.js"
+    "static/js/2.70c6c94d.chunk.js",
+    "static/css/main.79e3d714.chunk.css",
+    "static/js/main.02993fcb.chunk.js"
   ]
 }
